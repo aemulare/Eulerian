@@ -15,6 +15,7 @@ Console application
 
 ![alt tag](https://raw.githubusercontent.com/aemulare/Eulerian/master/Eulerian-screen-shot.png)
 
+
 ## Author
 
 * [Maria Romanova](https://github.com/aemulare)
