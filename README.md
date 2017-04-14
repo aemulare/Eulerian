@@ -4,8 +4,7 @@ A short program that finds an Eulerian circuit or an Eulerian path in a graph re
 
 ## Project Assignment
 
-> Given an adjacency matrix that codes for a graph, write a program that determines if there is an Eulerian circuit, an Eulerian path, or neither.  
-If a circuit or a path exists, state the path.
+> Given an adjacency matrix that codes for a graph, write a program that determines if there is an Eulerian circuit, an Eulerian path, or neither. If a circuit or a path exists, state the path.
 
 
 ## Format
